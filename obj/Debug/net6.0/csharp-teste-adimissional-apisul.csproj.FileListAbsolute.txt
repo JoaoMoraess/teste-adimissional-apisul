@@ -1,0 +1,15 @@
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/bin/Debug/net6.0/csharp-teste-adimissional-apisul
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/bin/Debug/net6.0/csharp-teste-adimissional-apisul.deps.json
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/bin/Debug/net6.0/csharp-teste-adimissional-apisul.runtimeconfig.json
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/bin/Debug/net6.0/csharp-teste-adimissional-apisul.dll
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/bin/Debug/net6.0/ref/csharp-teste-adimissional-apisul.dll
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/bin/Debug/net6.0/csharp-teste-adimissional-apisul.pdb
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.csproj.AssemblyReference.cache
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.AssemblyInfoInputs.cache
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.AssemblyInfo.cs
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.csproj.CoreCompileInputs.cache
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.dll
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/ref/csharp-teste-adimissional-apisul.dll
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.pdb
+/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/obj/Debug/net6.0/csharp-teste-adimissional-apisul.genruntimeconfig.cache

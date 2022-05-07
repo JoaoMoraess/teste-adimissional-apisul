@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "csharp-teste-adimissional-apisul/1.0.0": {
+        "runtime": {
+          "csharp-teste-adimissional-apisul.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-teste-adimissional-apisul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

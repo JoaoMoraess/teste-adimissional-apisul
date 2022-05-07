@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYOcd3/bqVLYos6J3wYacUw5ONz3OI3dNJOTXQFBqQaxMAS0q7dpyE00obXeR2mt9JZxxXVLx7ZOzDT5sguSlw==",
+  "success": true,
+  "projectFilePath": "/home/joaomoraess/Projects/csharp-teste-adimissional-apisul/csharp-teste-adimissional-apisul.csproj",
+  "expectedPackageFiles": [
+    "/home/joaomoraess/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
